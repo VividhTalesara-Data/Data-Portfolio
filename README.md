@@ -1,2 +1,2 @@
 # Data-Portfolio
-Projects on various Technologies and area. Including Machine Learning, NLP and other supporting algorithms
+This Repo is inundated with all my Data Related Projects on variety of concepts that covers maximum Machine Learning and Neural Network. Including other supporting algorithms, libraries & tools
